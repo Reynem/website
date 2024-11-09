@@ -1,0 +1,56 @@
+{
+    "name": "Гора Кокшетау",
+    "latitude": 53.08011782238714,
+    "longitude": 70.18886394232051,
+    "description": "Гора Кокшетау, расположенная в Бурабайском районе, привлекает туристов своей природной красотой и уникальными пейзажами. Высота горы составляет около 947 метров.",
+    "region": "Бурабайский район",
+    "links": [
+      "https://welcome.kz/ru/info-cities/akmola-region/burabay/gora-kokshetau",
+      "https://ru.wikipedia.org/wiki/Кокшетау_(горы)"
+    ]
+  },
+  {
+    "name": "Иманаевский родник",
+    "latitude": 53.07660540536487,
+    "longitude": 70.2163996255805,
+    "description": "Иманаевский родник – природный источник, известный своими целебными свойствами. Родник окружен живописными лесами и холмами.",
+    "region": "Бурабайский район",
+    "links": [
+      "https://welcome.kz/ru/info-cities/akmola-region/burabay/imanaevskij-ruchej",
+      "https://2gis.kz/kokshetau/geo/70030076179582533"
+    ]
+  },
+  {
+    "name": "Пещера Кенесары",
+    "latitude": 53.05949142394258,
+    "longitude": 70.25021469999896,
+    "description": "Пещера Кенесары – историческое место, связанное с именем хана Кенесары. Пещера расположена на скалистом берегу озера и является популярным местом для экскурсий.",
+    "region": "Бурабайский район",
+    "links": [
+      "https://welcome.kz/ru/info-cities/akmola-region/burabay/chto-posetit-v-borovom",
+      "https://ru.wikipedia.org/wiki/Кенесары_Касымов"
+    ]
+  },
+  {
+    "name": "Водопад Аулие-булак",
+    "latitude": 52.55619806147388,
+    "longitude": 69.27874199999964,
+    "description": "Водопад Аулие-булак – природный водопад в Сандыктауском районе. Этот живописный уголок Казахстана окружен зелеными горами и лесами.",
+    "region": "Сандыктауский район",
+    "links": [
+      "https://kazakhstan.travel/ru/tourist-spot/7/kokshetau-national-park",
+      "https://ru.wikipedia.org/wiki/Сандыктауский_район"
+    ]
+  },
+  {
+    "name": "Горы Ерементау",
+    "latitude": 51.5000128577253,
+    "longitude": 72.9999999999992,
+    "description": "Горы Ерементау – горный массив, расположенный в Ерементауском районе. Известен своими разнообразными флорой и фауной, а также возможностями для активного отдыха.",
+    "region": "Ерементауский район",
+    "links": [
+      "https://ru.wikipedia.org/wiki/Ерейментау_(горы)",
+      "https://kazakhstan.travel/ru/guide/places/nature/ereymentau-mountains"
+    ]
+  }
+]
